@@ -1,7 +1,11 @@
 .App {
   text-align: center;
+  margin: auto;
 }
-
+.Posts{
+  width: 80%;
+  margin: auto;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
